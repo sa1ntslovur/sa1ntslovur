@@ -12,6 +12,7 @@
 * [📖 Handbooks](guides/handbooks.md)
 * [💻 Shift](guides/shift.md)
 * [🏬 Training](guides/training.md)
+* [💼 HIRING](guides/hiring.md)
 
 ## Appeals
 
