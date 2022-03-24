@@ -10,5 +10,6 @@ Changed: (3/23/2022)
 
 * Name of group
 * Added a stock system
-* Added security cameras
+
+
 
