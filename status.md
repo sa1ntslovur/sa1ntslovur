@@ -9,8 +9,8 @@ description: >-
 
 Discord Server:
 
-{% hint style="success" %}
-Our Discord server is out of maintenance mode and every channel is accessible.&#x20;
+{% hint style="warning" %}
+Our Discord server is in maintenance mode and temporary channels are allowed during the revamp.
 {% endhint %}
 
 Roblox Group:
